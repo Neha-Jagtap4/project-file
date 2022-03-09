@@ -146,7 +146,7 @@ def ProcessMemory(dict1,log_dir="Marvellous"):
     print("YOUR MAIL HAS BEEN SENT SUCCESSFULLY")
 
 def main():
-    print("---- Marvellous Infosystems by Piyush Khairnar -----")
+    print("---- Periodic Process Logger with Auto Scheduled Log Report  -----")
 
     print("Application name : " +argv[0])
     print("Directory is: "+argv[1])
