@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+    "title": "Dell Vostro 3400 Intel i3",
+    "desc": "Microsoft Xbox One X 1Tb Console With Wireless Controller: Xbox One X Enhanced, Hdr, Native 4K, Ultra Hd",
+    "price": 35990,
+     "image": "https://tse4.mm.bing.net/th?id=OIP.hmPQ08qKJpKeg2Rt0Gk8rAHaFj&pid=Api&P=0",
+     "ratings": 4},
+     {   
+        "id": 2,
+        "title": "Wedani Women's Casual Collor Foral Top",
+         "desc": "PlayStation 4 Slim 1TB Console - Only On PlayStation Bundle",
+         "price": 399.00,
+         "image": "https://tse2.mm.bing.net/th?id=OIP.1WVDrJ4SMTR5k066e2QsEgHaJk&pid=Api&P=0",
+         "ratings": 5
+     },
+     {
+        "id": 3,
+        "title": "Galaxy Watch 3 45mm Bluetooth (Mystic Black)", 
+        "desc": "Pro Angular 9: Build Powerful and Dynamic Web Apps 4th ed. Edition",
+         "price": 15999,
+         "image": "https://tse2.mm.bing.net/th?id=OIP.Z6WUhu4RGH_NURADv9TxKwHaJb&pid=Api&P=0",
+         "ratings": 3
+     },
+     {   
+        "id": 4, 
+         "title": "Havells Digitouch Alkaline Water purifier", 
+         "desc": "JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language 7th Edition",
+         "price": 8750.00,
+         "image": "https://tse2.mm.bing.net/th?id=OIP.M1gr06zxrFOwvIyW5rNszAHaKL&pid=Api&P=0&w=300&h=300",
+         "ratings": 5
+     },
+     {    "id": 5, 
+         "title":"Nord CE 2 5G(8GB RAM, 128GB Storage)",
+         "desc": "Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast, 2.2 Pound (Pack of 1)",
+         "price": 830.00,
+         "image": "https://tse4.mm.bing.net/th?id=OIP.6lv9qQcmxOCYO91TDK3adwHaHa&pid=Api&P=0",
+         "ratings": 2
+     },
+     {    "id": 6, 
+         "title":"Home Microfibre Multicolor Double Bedsheet",
+         "desc": "Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast, 2.2 Pound (Pack of 1)",
+         "price": 890.00,
+         "image": "https://tse2.mm.bing.net/th?id=OIP.Ze9kmTyFhsSqTpCB7oArpAHaHa&pid=Api&P=0",
+         "ratings": 4
+     },
+     {    "id": 7, 
+         "title":"Dennis Lingo Men Casual Shirt",
+         "desc": "Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast, 2.2 Pound (Pack of 1)",
+         "price": 1450.00,
+         "image": "https://tse3.mm.bing.net/th?id=OIP.V9pkjUYP0lvPnXWpxivKZwHaJQ&pid=Api&P=0",
+         "ratings": 4
+     }
+]
